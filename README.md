@@ -1,2 +1,2 @@
 # omp
-OMP - Open Source Mining Portal
+OMP - Open-Source Mining Portal
